@@ -1,16 +1,16 @@
 {
-  "version": "11.36.0",
+  "version": "11.37.0",
   "description": "Renamed to agent-shim; this manifest is kept so existing claude-use installs keep updating. Profile manager and launcher for Claude Code with per-directory sharing rules",
   "homepage": "https://github.com/ExaDev/agent-shim",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/ExaDev/agent-shim/releases/download/v11.36.0/agent-shim-windows-x64.zip",
-      "hash": "65c1796e98f664a9762ecd476a3b3820b15b280b0a56624bfd5bb053a42282ef"
+      "url": "https://github.com/ExaDev/agent-shim/releases/download/v11.37.0/agent-shim-windows-x64.zip",
+      "hash": "d6fa30f7049c27a02bb4ac0fadc7139548ec3ab756e4e806b2e4adb1890f5cc7"
     },
     "arm64": {
-      "url": "https://github.com/ExaDev/agent-shim/releases/download/v11.36.0/agent-shim-windows-arm64.zip",
-      "hash": "c0cfc110dfbdf2bfbc0d51b6ba7b359765019f2667f5b2cae979a6b97cb5e369"
+      "url": "https://github.com/ExaDev/agent-shim/releases/download/v11.37.0/agent-shim-windows-arm64.zip",
+      "hash": "27b5882e8bac05b2244e9ba6b279122aa3f8a03d4dd9633cb4a7b2c5b43d88d7"
     }
   },
   "bin": [

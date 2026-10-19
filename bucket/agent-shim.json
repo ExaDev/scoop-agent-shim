@@ -1,16 +1,16 @@
 {
-    "version": "11.52.0",
+    "version": "11.52.1",
     "description": "Profile manager and launcher for Claude Code with per-directory sharing rules",
     "homepage": "https://github.com/ExaDev/agent-shim",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ExaDev/agent-shim/releases/download/v11.52.0/agent-shim-windows-x64.zip",
-            "hash": "a97366d8dbeaff5a8ca5446caa0f23e3ea581c33276fcfb438b3e2163d1d43ab"
+            "url": "https://github.com/ExaDev/agent-shim/releases/download/v11.52.1/agent-shim-windows-x64.zip",
+            "hash": "3456af39f3a69bdf89d7c859fef8b9ec24f6e8415f96c4f20fe9575887723d1f"
         },
         "arm64": {
-            "url": "https://github.com/ExaDev/agent-shim/releases/download/v11.52.0/agent-shim-windows-arm64.zip",
-            "hash": "5eafc529cddf5ec3a16a535b7ff399e4219c12f578c5dcf99689476d637c4a62"
+            "url": "https://github.com/ExaDev/agent-shim/releases/download/v11.52.1/agent-shim-windows-arm64.zip",
+            "hash": "258763f81289bcc791ab6af9065976b41278680afff24936f27a884365414f0f"
         }
     },
     "bin": [

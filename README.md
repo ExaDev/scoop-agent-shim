@@ -1,5 +1,7 @@
 # scoop-agent-shim
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/ExaDev/scoop-agent-shim)
+
 [Scoop](https://scoop.sh) bucket for [agent-shim](https://github.com/ExaDev/agent-shim) on Windows.
 
 ## Install
